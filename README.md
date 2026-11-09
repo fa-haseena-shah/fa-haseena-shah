@@ -2,10 +2,6 @@
 
 # H A S E E N A &nbsp;&nbsp;&nbsp;  S H A H
 
-<br/>
-
----
-
 [linkedin](https://www.linkedin.com/in/haseena-shah-1a0a11444/) &nbsp;&nbsp; ⊹ &nbsp;&nbsp; [behance](https://www.behance.net/haseenashah2d) &nbsp;&nbsp; ⊹ &nbsp;&nbsp; [github](https://github.com/fa-haseena-shah) &nbsp;&nbsp; ⊹ &nbsp;&nbsp; [email](mailto:fa.haseenashah@gmail.com)
 
 <br/>
