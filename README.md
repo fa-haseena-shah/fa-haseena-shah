@@ -2,7 +2,6 @@
 
 # H A S E E N A &nbsp;&nbsp;&nbsp;  S H A H
 
-i like creating impact through meaningful design in <br> technology (and trying to see it through to the end)
 <br/>
 
 ---
