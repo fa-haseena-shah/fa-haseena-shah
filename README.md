@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fa-haseena-shah/fa-haseena-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HASEENA SHAH
 
-Here are some ideas to get you started:
+i like creating impact through meaningful design in <br> technology (and trying to see it through to the end)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ────── &nbsp;&nbsp;&nbsp; let's connect &nbsp;&nbsp;&nbsp; ──────
+
+[linkedin](https://www.linkedin.com/in/haseena-shah-1a0a11444/) &nbsp;&nbsp; ⊹ &nbsp;&nbsp; [behance](https://www.behance.net/haseenashah2d) &nbsp;&nbsp; ⊹ &nbsp;&nbsp; [github](https://github.com/fa-haseena-shah) &nbsp;&nbsp; ⊹ &nbsp;&nbsp; [email](mailto:fa.haseenashah@gmail.com)
+
+<br/>
+
+</div>
